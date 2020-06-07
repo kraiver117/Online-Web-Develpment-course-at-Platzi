@@ -1,0 +1,29 @@
+@media (max-width: 960px){
+
+    .header-main-container{
+        display: block;
+    }
+
+    .header-main-container figure{
+       text-align: center;
+    }
+
+    .header-main-container nav ol{
+        display: flex;
+        justify-content: center;
+    }
+
+    .events-articles-container{
+        display: block;
+    }
+}
+
+@media (max-width:1500px) {
+    .projects-main-container article{
+        display: block;
+    }
+    .main-section-container{
+        display: block;
+    }
+    
+}
